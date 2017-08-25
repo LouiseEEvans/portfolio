@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://louiseeevans.github.io/portfolio,http://louiseevansdesign.co.uk" resolutions="1x,2x" timestamp="1503649990778">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://louiseeevans.github.io/portfolio,http://louiseevansdesign.co.uk" resolutions="1x,2x" timestamp="1503663614517">
   <folder name="css">
     <file name="site_global.css" crc="344218597"/>
     <file name="master_all.css" crc="303215636" ref="handdrawn_type:about:avocado_cookbook:lunchbox_salads:dome_company:watercolour:play:looking_reading:bitsoundspace:soft_hard:maplewood_property:exchange:lets_cook:index:jane_austen_cookbook:londons_larder:bite_knife:betty_magazine:ten_paces_behind:the_grapevine:tilde_wip"/>
@@ -2394,46 +2394,46 @@
     <file name="exchange_1-crop-u7195_2x.jpg" crc="4187593475" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image.jpg" crc="3799548589" seo="true" ref="exchange">
+    <file name="exchange_image.jpg" crc="3799548589" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image_2x.jpg" crc="329467565" seo="true" ref="exchange">
+    <file name="exchange_image_2x.jpg" crc="329467565" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image7.jpg" crc="4119890026" seo="true" ref="exchange">
+    <file name="exchange_image7.jpg" crc="4119890026" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image7_2x.jpg" crc="4129702405" seo="true" ref="exchange">
+    <file name="exchange_image7_2x.jpg" crc="4129702405" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image4.jpg" crc="4100717561" seo="true" ref="exchange">
+    <file name="exchange_image4.jpg" crc="4100717561" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image4_2x.jpg" crc="4174083950" seo="true" ref="exchange">
+    <file name="exchange_image4_2x.jpg" crc="4174083950" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image2.jpg" crc="95506431" seo="true" ref="exchange">
+    <file name="exchange_image2.jpg" crc="95506431" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image2_2x.jpg" crc="274784498" seo="true" ref="exchange">
+    <file name="exchange_image2_2x.jpg" crc="274784498" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image6.jpg" crc="53593885" seo="true" ref="exchange">
+    <file name="exchange_image6.jpg" crc="53593885" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image6_2x.jpg" crc="147540913" seo="true" ref="exchange">
+    <file name="exchange_image6_2x.jpg" crc="147540913" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image5.jpg" crc="4157035856" seo="true" ref="exchange">
+    <file name="exchange_image5.jpg" crc="4157035856" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image5_2x.jpg" crc="423203325" seo="true" ref="exchange">
+    <file name="exchange_image5_2x.jpg" crc="423203325" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image3.jpg" crc="3985433503" seo="true" ref="exchange">
+    <file name="exchange_image3.jpg" crc="3985433503" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image3_2x.jpg" crc="4161889783" seo="true" ref="exchange">
+    <file name="exchange_image3_2x.jpg" crc="4161889783" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
     <file name="exchange_1-crop-u71952.jpg" crc="4191408326" seo="true" ref="exchange">
@@ -2442,46 +2442,46 @@
     <file name="exchange_1-crop-u7195_2x2.jpg" crc="4279007143" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image754x565.jpg" crc="4046325801" seo="true" ref="exchange">
+    <file name="exchange_image754x566.jpg" crc="4046325801" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image754x565_2x.jpg" crc="3919044953" seo="true" ref="exchange">
+    <file name="exchange_image754x566_2x.jpg" crc="3919044953" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image7369x277.jpg" crc="170854452" seo="true" ref="exchange">
+    <file name="exchange_image7369x277.jpg" crc="170854452" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image7369x277_2x.jpg" crc="3836246648" seo="true" ref="exchange">
+    <file name="exchange_image7369x277_2x.jpg" crc="3836246648" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image4370x277.jpg" crc="455906531" seo="true" ref="exchange">
+    <file name="exchange_image4370x277.jpg" crc="455906531" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image4370x277_2x.jpg" crc="309426242" seo="true" ref="exchange">
+    <file name="exchange_image4370x277_2x.jpg" crc="309426242" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image2754x565.jpg" crc="3930456353" seo="true" ref="exchange">
+    <file name="exchange_image2754x566.jpg" crc="3930456353" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image2754x565_2x.jpg" crc="4287698206" seo="true" ref="exchange">
+    <file name="exchange_image2754x566_2x.jpg" crc="4287698206" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image6369x277.jpg" crc="234067241" seo="true" ref="exchange">
+    <file name="exchange_image6370x277.jpg" crc="234067241" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image6369x277_2x.jpg" crc="307718607" seo="true" ref="exchange">
+    <file name="exchange_image6370x277_2x.jpg" crc="307718607" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image5369x277.jpg" crc="3807944481" seo="true" ref="exchange">
+    <file name="exchange_image5370x277.jpg" crc="3807944481" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image5369x277_2x.jpg" crc="233185802" seo="true" ref="exchange">
+    <file name="exchange_image5370x277_2x.jpg" crc="256449443" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image3754x565.jpg" crc="3842392818" seo="true" ref="exchange">
+    <file name="exchange_image3754x565.jpg" crc="3842392818" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image3754x565_2x.jpg" crc="3934172907" seo="true" ref="exchange">
+    <file name="exchange_image3754x565_2x.jpg" crc="3934172907" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
     <file name="exchange_1-crop-u71953.jpg" crc="3785058769" seo="true" ref="exchange">
@@ -2490,68 +2490,68 @@
     <file name="exchange_1-crop-u7195_2x3.jpg" crc="4177929959" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image384x288.jpg" crc="3867296801" seo="true" ref="exchange">
+    <file name="exchange_image384x288.jpg" crc="3867296801" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image384x288_2x.jpg" crc="4140242528" seo="true" ref="exchange">
+    <file name="exchange_image384x288_2x.jpg" crc="4140242528" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image7384x289.jpg" crc="352562815" seo="true" ref="exchange">
+    <file name="exchange_image7384x288.jpg" crc="352562815" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image7384x289_2x.jpg" crc="4188428793" seo="true" ref="exchange">
+    <file name="exchange_image7384x288_2x.jpg" crc="4188428793" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image4384x288.jpg" crc="99934071" seo="true" ref="exchange">
+    <file name="exchange_image4384x288.jpg" crc="99934071" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image4384x288_2x.jpg" crc="86974147" seo="true" ref="exchange">
+    <file name="exchange_image4384x288_2x.jpg" crc="86974147" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image2384x288.jpg" crc="3898534054" seo="true" ref="exchange">
+    <file name="exchange_image2384x288.jpg" crc="3898534054" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image2384x288_2x.jpg" crc="270345246" seo="true" ref="exchange">
+    <file name="exchange_image2384x288_2x.jpg" crc="270345246" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image6384x289.jpg" crc="437492077" seo="true" ref="exchange">
+    <file name="exchange_image6385x289.jpg" crc="437492077" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image6384x289_2x.jpg" crc="140973633" seo="true" ref="exchange">
+    <file name="exchange_image6385x289_2x.jpg" crc="140973633" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image5384x289.jpg" crc="3823550024" seo="true" ref="exchange">
+    <file name="exchange_image5385x289.jpg" crc="3823550024" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image5384x289_2x.jpg" crc="4174869501" seo="true" ref="exchange">
+    <file name="exchange_image5385x289_2x.jpg" crc="4207397286" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image3384x288.jpg" crc="4169154525" seo="true" ref="exchange">
+    <file name="exchange_image3384x288.jpg" crc="4169154525" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
-    <file name="_exchange_image3384x288_2x.jpg" crc="4171108897" seo="true" ref="exchange">
+    <file name="exchange_image3384x288_2x.jpg" crc="4171108897" seo="true" ref="exchange">
       <caption webpage="exchange" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4278000127" seo="true" mt="1503649430733" redirect="true"/>
-  <file name="play.html" crc="3847108596" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="about.html" crc="4151579422" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="betty_magazine.html" crc="4146197658" seo="true" mt="1503649430735" redirect="true"/>
-  <file name="maplewood_property.html" crc="512950327" seo="true" mt="1503649418440" redirect="true"/>
-  <file name="dome_company.html" crc="399209736" seo="true" mt="1503649414592" redirect="true"/>
-  <file name="avocado_cookbook.html" crc="123304632" seo="true" mt="1503649408385" redirect="true"/>
-  <file name="the_grapevine.html" crc="461486786" seo="true" mt="1503649423657" redirect="true"/>
-  <file name="londons_larder.html" crc="284847396" seo="true" mt="1503649426839" redirect="true"/>
-  <file name="lets_cook.html" crc="4037063983" seo="true" mt="1503649396407" redirect="true"/>
-  <file name="watercolour.html" crc="4053902023" seo="true" mt="1503649402043" redirect="true"/>
-  <file name="lunchbox_salads.html" crc="116348228" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="handdrawn_type.html" crc="376493899" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="tilde_wip.html" crc="4157361786" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="bite_knife.html" crc="4083746775" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="soft_hard.html" crc="4062362335" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="looking_reading.html" crc="104612832" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="bitsoundspace.html" crc="197304859" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="ten_paces_behind.html" crc="399718640" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="jane_austen_cookbook.html" crc="274996744" seo="true" mt="1503648441383" redirect="true"/>
-  <file name="exchange.html" crc="4053647233" seo="true" mt="1503649886904" redirect="true"/>
+  <file name="index.html" crc="3802149838" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="play.html" crc="411937711" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="about.html" crc="3820481786" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="betty_magazine.html" crc="4070170824" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="maplewood_property.html" crc="4066547679" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="dome_company.html" crc="19474102" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="avocado_cookbook.html" crc="3804292085" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="the_grapevine.html" crc="4284913982" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="londons_larder.html" crc="4074046448" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="lets_cook.html" crc="211329682" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="watercolour.html" crc="4248739817" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="lunchbox_salads.html" crc="124434356" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="handdrawn_type.html" crc="4005454281" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="tilde_wip.html" crc="40573498" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="bite_knife.html" crc="4138030115" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="soft_hard.html" crc="535983405" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="looking_reading.html" crc="268739857" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="bitsoundspace.html" crc="37815837" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="ten_paces_behind.html" crc="4045563128" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="jane_austen_cookbook.html" crc="4006052531" seo="true" mt="1503663412803" redirect="true"/>
+  <file name="exchange.html" crc="107867017" seo="true" mt="1503663412803" redirect="true"/>
 </manifest>
